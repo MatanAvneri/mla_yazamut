@@ -1,32 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to BraceMe
 
-You can use the [editor on GitHub](https://github.com/MatanAvneri/mla_yazamut/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Please Insert some details:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Address: <br>
+![Insert](http://www.vasplus.info/tutorials_attachments/expand_and_adjust_textarea_box.gif)
 
-### Markdown
+Allergies: <br>
+![Insert](http://www.vasplus.info/tutorials_attachments/expand_and_adjust_textarea_box.gif)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Emergency Contact: <br>
+![Insert](http://www.vasplus.info/tutorials_attachments/expand_and_adjust_textarea_box.gif)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
