@@ -1,21 +1,5 @@
-## Welcome to BraceMe
+hankquinlan.github.io
+=====================
+This is demo data created by [Jonathan McGlone](http://jmcglone.com) and used in a [step-by-step beginners guide](http://jmcglone.com/guides/github-pages) to creating and hosting a personal website using GitHub and Jekyll. You can view the demo data at <http://hankquinlan.github.io> and read the guide at <http://jmcglone.com/guides/github-pages>. 
 
-Please Insert some details:
-
-Address: <br>
-![Insert](http://www.vasplus.info/tutorials_attachments/expand_and_adjust_textarea_box.gif)
-
-Allergies: <br>
-![Insert](http://www.vasplus.info/tutorials_attachments/expand_and_adjust_textarea_box.gif)
-
-Emergency Contact: <br>
-![Insert](http://www.vasplus.info/tutorials_attachments/expand_and_adjust_textarea_box.gif)
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MatanAvneri/mla_yazamut/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Users are free to copy and re-use any and all of the code contained here without contacting me.
