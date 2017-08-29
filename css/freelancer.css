@@ -225,6 +225,7 @@ header.masthead {
 header.masthead img {
     display: block;
     margin: 0 auto 20px;
+    background: white;
 }
 
 header.masthead .intro-text .name {
