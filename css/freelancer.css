@@ -93,6 +93,10 @@ section.success {
     background: #18BC9C;
 }
 
+section.looks {
+    background: #5bc0de;
+}
+
 @media (max-width: 767px) {
     section {
         padding: 75px 0;
